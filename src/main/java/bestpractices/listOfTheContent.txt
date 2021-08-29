@@ -1,0 +1,9 @@
+book:
+blokh dzh - java Effektivnoe programmirovanie
+
+list of the content
+
+2. создание и уничтожение объектов - checked
+3. методы, общие для всех объектов - checked
+4. класы и интерфейсы - not good yet
+5. Следства обобшенного программирования (generics)  - todo
